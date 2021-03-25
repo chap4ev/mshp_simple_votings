@@ -27,3 +27,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 9. Создать конфигурацию запуска в PyCharm (файл `manage.py`, опция `runserver`)
+
+## Авторы
+
+Этот проект написан 7 подгруппой 301 группой [МШП](https://informatics.ru/)
